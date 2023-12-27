@@ -23,9 +23,9 @@ Our initial approach to tackling this problem involves several key steps:
 As the project evolves, we plan to incorporate more advanced machine learning models and more robust feature extraction techniques. We also aim to develop a user-friendly interface for easy interaction with the system.
 
 ## Contributing
-We welcome contributions from the community. If you're interested in contributing, please read our contribution guidelines (link to contribution guidelines).
+We welcome contributions from the community.
 
 
 ## Contact
-For any queries or suggestions, feel free to contact me at [mayankbaluni@gmail.com].
+For any queries or suggestions, feel free to contact me at [mayankbaluni@gmail.com]
 
