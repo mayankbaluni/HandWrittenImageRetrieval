@@ -12,5 +12,5 @@ def preprocess_images(image_folder):
     return processed_images
 
 # Example usage
-image_folder = 'path_to_your_image_folder'
+image_folder = 'path_to_image_folder'
 images = preprocess_images(image_folder)
