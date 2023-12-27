@@ -3,6 +3,9 @@
 ## Introduction
 HandWrittenImageRetrieval is a project focused on developing a system for efficiently retrieving handwritten images from a large dataset. This system aims to simplify the process of finding images with similar handwriting styles, which is a challenging task due to the diverse and complex nature of human handwriting.
 
+![Overview](https://github.com/mayankbaluni/HandWrittenImageRetrieval/blob/main/bann.png)
+
+
 ## Problem Statement
 In large collections of handwritten documents, such as historical archives or personal collections, finding a specific document or documents with similar handwriting can be like searching for a needle in a haystack. Manual search is time-consuming and inefficient. HandwriteSeek aims to automate this process by using image processing and machine learning techniques to identify and retrieve handwritten images based on their similarity to a given query image.
 
