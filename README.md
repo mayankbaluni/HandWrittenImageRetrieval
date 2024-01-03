@@ -1,4 +1,4 @@
-# HandWrittenImageRetrieval: Handwritten Image Retrieval System
+# Handwritten Image Retrieval System
 
 ## Introduction
 HandWrittenImageRetrieval is a project focused on developing a system for efficiently retrieving handwritten images from a large dataset. This system aims to simplify the process of finding images with similar handwriting styles, which is a challenging task due to the diverse and complex nature of human handwriting.
